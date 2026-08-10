@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./github_banner.png" width="100%">
+  <img src="./github_banner - Copy.png" width="100%">
 </p>
 
 <h1 align="center">Shree Hari K 👨🏾‍💻</h1>
