@@ -11,7 +11,7 @@
 </p>
 
 
-CS @VIT
+CSE @VIT
 
 
 
